@@ -23,6 +23,9 @@ h1, h2, h3, h4, h5 {
   font-family: "Playfair Display", times, serif;
 }
 
+h6 {
+  font-size: 1px;
+}
 .btn, .form-control {
   outline: none;
   -webkit-box-shadow: none !important;
