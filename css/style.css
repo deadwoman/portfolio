@@ -3,7 +3,7 @@ body {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
-  color: #b3b3b3;
+  color: #000000;
   background: #fff;
 }
 
@@ -258,11 +258,11 @@ body.offcanvas-open .site-wrap {
   letter-spacing: 0.1em;
   font-size: 13px;
   top: 20px;
-  color: #000;
+  color: #fff;
 }
 
 .offcanvas-toggle:hover {
-  color: #000;
+  color: #f73859;
   opacity: 0.7;
 }
 
