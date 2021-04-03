@@ -32,6 +32,11 @@ h6 {
   color: #283149;
   visibility: hidden;
 }
+
+h7 {
+  font-size: 16x;
+  font-weight: bold;
+}
 .btn,
 .form-control {
   outline: none;
